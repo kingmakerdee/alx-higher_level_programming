@@ -1,0 +1,3 @@
+-- Deletes named database and does not return error if missing
+-- query deletes databases in mysql
+DROP DATABASE IF EXISTS hbtn_0c_0;
